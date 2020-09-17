@@ -12,7 +12,13 @@ Returns: a List of integers
 
 
 def sliding_window_max(nums, k):
-    # Your code here
+    # loop thru array with range
+    # hold max values in empty array
+    # check if the index + k will exceed array length
+    # reset the max value
+
+    # loop through window (while loop)
+    # check if index value is higher than max value
 
     pass
 
